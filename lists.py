@@ -45,3 +45,5 @@ print(friends.count('tom'))
 #empties list
 friends.clear()
 print(friends)
+
+# test
